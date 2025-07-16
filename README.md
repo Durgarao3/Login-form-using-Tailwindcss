@@ -1,4 +1,4 @@
-now this ok # ✨ Login & Signup Form using Tailwind CSS
+# ✨ Login & Signup Form using Tailwind CSS
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
